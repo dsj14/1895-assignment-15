@@ -1,5 +1,6 @@
 # 1895-assignment-15
 Repository for the first github assignment in 1895
+Owen is out of twon at a wedding so this asignemnt will be just me and Richard
 
 # Source code
 // the setup function runs once when you press reset or power the board
